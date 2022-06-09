@@ -1,0 +1,139 @@
+.navbar-custom {
+    background-color:aliceblue;
+    }
+
+.heading {
+    display: flex;
+    color: #336699;
+    font-size: xx-large;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    padding-top: 150px;
+}
+
+.container {
+    border-radius: 15px;
+
+    background-color: azure;
+}
+
+.col {
+    padding: 20px;
+    margin: 20px;
+}
+
+.staff_publication {
+    margin-top: 10px;
+    color:#cc6600;
+}
+
+.year, .publication_title {
+    font-weight: bold;
+}
+
+.year {
+    padding-left: 15px;
+}
+  
+
+.contact {
+    padding: 20px;
+    margin: 20px;
+}
+
+.contact_text {
+    color: blue;
+    padding: 5px;
+    margin: 5px;
+}
+
+.opportunities_text {
+    font-weight: bold;
+    padding-left: 60px;
+    margin-left: 60px;
+}
+
+#fyp {
+    padding-left: 15px;
+}
+
+.ntu-undergrad {
+    font-weight: bold;
+    font-size: 25px;
+    padding: 5px;
+    padding-top: 15px;
+    margin: 5px;
+}
+
+
+
+.thumbnail {
+    padding: 10px;
+    margin: 10px;
+    grid-column-gap: 1rem;
+
+}
+
+.navbar {
+    font-size: x-large;
+    position: fixed;
+    width: 100%;
+    z-index: 1100;
+
+   
+  }
+
+  li {
+      padding-top: 10px;
+  }
+
+  .home-image {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+.logo {
+    height: 100px;
+    width: 100px;
+    margin-right: 500px;
+
+}
+
+.first-heading {
+    padding-top: 200px;
+}
+
+.photo {
+    height: 45mm;
+    width: 35mm;
+}
+
+.back {
+    border-radius: 6px;
+}
+
+.indv-page {
+    margin: 30px;
+    margin-top: 150px;
+    height: 67.5mm;
+    width: 52.5mm;
+}
+
+.profile-text-heading {
+    padding: 15px;
+    padding-top: 40px;
+    color: #336699;
+    
+}
+
+.profile-text {
+    padding-left: 40px;
+    font-size: large;
+    
+}
+
+.contact-us-text {
+    font-size: large;
+}
